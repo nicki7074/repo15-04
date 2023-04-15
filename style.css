@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(19, 179, 19);
+}
+div.div{
+    border: 2px blue solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+div.div10{
+    background-color: brown;
+    border: 2px blue solid; 
+    border-radius: 5px;  
+    font-family:'Courier New', Courier, monospace;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+}
+h3{
+    font-size:100%;
+    text-align: center;
+    position: relative;
+    top: -3px;
+}
+div.div1{
+    border: solid 2px blue;
+    height: 500px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    position: relative;
+   
+}
